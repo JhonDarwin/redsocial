@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">REDSOCIAL</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Siguiente1">Siguiente</string>
+    <string name="Siguiente2">Siguiente</string>
+    <string name="Siguiente3">Siguiente</string>
+    <string name="Siguiente4">Siguiente</string>
+    <string name="Atras">Atras</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Iniciar_Sesion">Login</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Registrando">Registrate</string>
+
+
+
+</resources>
